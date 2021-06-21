@@ -5,6 +5,7 @@
 |  READING    |  O(1)   | O(n)|
 |  INSERTION  |  O(n)   | O(1)|
 |  DELETION   |  O(n)   | O(1)|
+
 • Your computer’s memory is like a giant set of drawers.<br>
 
 • When you want to store multiple elements, use an array or a list.<br>
