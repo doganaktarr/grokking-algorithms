@@ -1,4 +1,4 @@
-<h3>Recap from Chapter 1</h3>
+<h3>Recap from Chapter 1</h3><br>
 
 • Binary search is a lot faster than simple search.<br>
 
